@@ -9,8 +9,8 @@
 ## Cтруктура проекта:
 ### [AXA_project.ipynb](https://github.com/artsyyyy/python_project_AXA/blob/main/AXA_project.ipynb)
 основная часть проекта, включающий в себя разделы: предобработка данных, визуализация данных, проверка гипотез, машинное обучение. В каждом из разделов последовательно представлено выполнение заданий проекта
-### [AXA_parsing.ipynb](url)
-код, с помощью которого мы парсили данные
+### [AXA_parsing.ipynb](https://github.com/artsyyyy/python_project_AXA/blob/main/AXA_parsing.ipynb)
+код, с помощью которого мы парсили данные. Для того, чтоб код сработал необходимо воспользоваться VPN-сервисом.
 ### [QS_dataframe.csv](https://github.com/artsyyyy/python_project_AXA/blob/main/QS_dataframe.csv) 
 таблица с данными использующимися в проекте, которую мы спарсили
 
